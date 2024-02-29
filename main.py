@@ -1,2 +1,3 @@
 import keyboard
 
+def main():
