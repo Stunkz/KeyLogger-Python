@@ -47,4 +47,4 @@ Modify these parameters according to your requirements to customize the behavior
 
 ## Disclaimer
 
-<span style="color:red">**This project is intended for educational and research purposes only. The author does not condone any illegal use of this software. Be responsible and respect the privacy and rights of others.**</span>
+**This project is intended for educational and research purposes only. The author does not condone any illegal use of this software. Be responsible and respect the privacy and rights of others.**
