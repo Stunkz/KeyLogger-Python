@@ -40,7 +40,7 @@ This script allows you to configure various parameters for the keylogger functio
 - **EVENT_TYPE**: Specifies whether to save the key when it's pressed ("down") or released ("up").
 - **SMTP_SERVER**: SMTP server address for sending emails.
 - **SMTP_PORT**: Port number for the SMTP server.
-- 
+
 
 Modify these parameters according to your requirements to customize the behavior of the keylogger.
 
