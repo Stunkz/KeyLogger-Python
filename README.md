@@ -1,5 +1,5 @@
 # KeyLogger-Python
-Key logger with python. Don't use it for illegal purpose :).
+Key logger with python. Do not use it for illegal purpose :).
 
 ## Packages needed :
 
