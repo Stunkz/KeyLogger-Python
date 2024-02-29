@@ -1,5 +1,8 @@
 # KeyLogger-Python
 Key logger with python
 
-Need to install :
-Keyboard
+## Packages needed :
+
+Install Keyboard :
+
+    pip install keyboard
