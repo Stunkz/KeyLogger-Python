@@ -1,3 +1,6 @@
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=Windows&logoColor=%230078D4)
+
+
 # KeyLogger-Python
 
 This is a simple keylogger implemented in Python. Please note that this tool is intended for educational and research purposes only. **Do not use it for illegal activities :)**.
@@ -9,6 +12,9 @@ To use this keylogger, you need to install the `keyboard` package. You can insta
 ```
 pip install keyboard
 ```
+
+You will also need to create an app password if you use Gmail. You can have more information at this [link](https://support.google.com/accounts/answer/185833).
+Remeber that you will have to enable 2FA.
 
 ## Keylogger Configuration Parameters
 
