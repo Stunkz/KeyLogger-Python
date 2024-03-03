@@ -1,5 +1,8 @@
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=Windows&logoColor=%230078D4)
-
+![Static Badge](https://img.shields.io/badge/release-v1.0-blue?style=flat)
+![Static Badge](https://img.shields.io/badge/Windows-passing-brightgreen?style=flat&logo=Windows)
+![Static Badge](https://img.shields.io/badge/Linux-passing-brightgreen?style=flat&logo=Linux)
+![Static Badge](https://img.shields.io/badge/macOs-passing-brightgreen?style=flat&logo=macOs)
+![Static Badge](https://img.shields.io/badge/License-GPL--3.0-orange?style=flat)
 
 # KeyLogger-Python
 
